@@ -1,0 +1,5 @@
+antecedents,consequents,support,confidence,lift
+Washer 6,Dryer 10,0.083,0.3436,1.3395
+Dryer 7,Washer 3,0.1115,0.3947,1.3672
+Washer 4,Dryer 8,0.0756,0.3352,1.3661
+Dryer 9,Washer 5,0.0706,0.3,1.3376

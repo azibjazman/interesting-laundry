@@ -1,0 +1,4 @@
+Model_Name,R2-Score,MAE,MSE,RMSE
+Linear Reg (After FS),1.0,0.0,0.0,0.0
+Decision Tree Reg (After FS),0.3504,0.7987,1.044,1.0218
+XGBoost Reg (After FS),0.4159,0.7058,0.9387,0.9689

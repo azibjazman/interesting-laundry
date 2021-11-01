@@ -1,0 +1,808 @@
+Race,Gender,Body_Size,Age_Group,With_Kids,Kids_Category,Basket_Size,Basket_colour,Attire,Shirt_Colour,shirt_type,Pants_Colour,pants_type,Spectacles,Wash_Item,cluster_label
+malay,male,moderate,20-29,yes,young,big,Primary,casual,Primary,short sleeve,BW,short,no,clothes,1
+indian,male,thin,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,Primary,long,no,clothes,0
+malay,female,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,2
+indian,male,thin,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,3
+indian,male,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,50-59,no,nokids,small,BW,casual,Others,short sleeve,Primary,long,no,clothes,0
+indian,female,fat,40-49,no,nokids,big,Others,traditional,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,3
+indian,male,thin,30-39,no,nokids,small,Secondary,casual,BW,short sleeve,BW,short,no,clothes,0
+chinese,male,moderate,30-39,no,nokids,small,Others,casual,BW,short sleeve,Primary,short,no,clothes,4
+foreigner ,female,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Others,short,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Primary,long,no,clothes,0
+malay,female,moderate,40-49,no,nokids,big,Primary,casual,Primary,long sleeve,Primary,long,no,clothes,2
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,4
+malay,female,moderate,50-59,yes,young,big,Primary,casual,Others,long sleeve,Others,long,yes,clothes,2
+indian,male,thin,30-39,no,nokids,big,Others,formal,Primary,long sleeve,Others,long,no,clothes,4
+malay,female,thin,50-59,yes,toddler,big,Primary,casual,Others,long sleeve,Others,long,no,clothes,2
+malay,male,fat,30-39,yes,toddler,big,Primary,casual,Others,short sleeve,Others,long,no,clothes,0
+malay,female,fat,50-59,yes,nokids,big,Primary,traditional,Secondary,long sleeve,Secondary,long,yes,clothes,2
+malay,female,moderate,50-59,yes,young,big,Others,casual,Secondary,long sleeve,Others,long,no,clothes,2
+indian,male,fat,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,0
+indian,male,moderate,50-59,yes,baby,big,Others,formal,Primary,long sleeve,BW,long,no,clothes,2
+malay,female,fat,30-39,yes,young,big,BW,casual,Primary,short sleeve,Primary,long,no,blankets,1
+chinese,female,thin,30-39,no,nokids,small,BW,casual,Others,short sleeve,BW,long,yes,blankets,3
+chinese,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,40-49,no,nokids,small,Secondary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Others,long,no,clothes,0
+chinese,male,thin,30-39,yes,young,big,Primary,casual,Others,short sleeve,BW,short,yes,blankets,4
+indian,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,0
+indian,male,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,0
+malay,female,fat,30-39,no,nokids,big,Secondary,casual,Secondary,long sleeve,BW,long,no,clothes,2
+chinese,male,thin,40-49,yes,toddler,big,Primary,casual,BW,short sleeve,BW,short,yes,clothes,4
+foreigner ,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,fat,50-59,no,nokids,big,Secondary,casual,Secondary,long sleeve,BW,long,no,clothes,2
+chinese,male,thin,40-49,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+malay,female,thin,40-49,no,nokids,small,BW,casual,BW,short sleeve,Others,long,no,clothes,3
+malay,male,fat,30-39,no,nokids,big,Primary,formal,BW,short sleeve,Others,long,yes,clothes,0
+chinese,female,thin,30-39,no,nokids,small,Secondary,casual,Others,short sleeve,Others,short,no,clothes,4
+malay,female,thin,40-49,no,nokids,big,Primary,formal,Secondary,long sleeve,BW,long,no,clothes,2
+malay,female,fat,30-39,no,nokids,big,Primary,traditional,Secondary,long sleeve,Secondary,long,yes,clothes,2
+malay,female,fat,30-39,no,nokids,big,Primary,traditional,Others,long sleeve,Others,long,no,clothes,2
+malay,female,fat,30-39,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,no,blankets,2
+malay,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,yes,clothes,0
+malay,female,fat,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,0
+foreigner ,female,moderate,40-49,no,nokids,big,Primary,formal,Others,long sleeve,BW,long,no,blankets,2
+malay,female,moderate,50-59,no,nokids,big,BW,casual,Primary,long sleeve,Primary,long,no,clothes,2
+indian,male,fat,40-49,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,short,no,clothes,0
+malay,female,fat,20-29,no,nokids,big,Primary,casual,Primary,long sleeve,Others,long,yes,clothes,2
+indian,male,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,no,clothes,0
+malay,female,fat,40-49,yes,toddler,big,Secondary,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,fat,40-49,no,nokids,small,BW,traditional,Primary,short sleeve,BW,long,no,clothes,0
+foreigner ,male,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,3
+foreigner ,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,thin,40-49,no,nokids,big,Primary,casual,Primary,long sleeve,Primary,short,no,clothes,4
+malay,male,thin,50-59,yes,young,big,BW,formal,Others,long sleeve,Primary,long,no,clothes,2
+malay,male,thin,30-39,yes,toddler,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,1
+indian,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,female,fat,30-39,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+malay,female,thin,50-59,yes,toddler,big,BW,casual,Others,short sleeve,Others,long,no,clothes,3
+malay,female,thin,50-59,no,nokids,small,BW,casual,BW,short sleeve,Others,long,no,clothes,3
+malay,male,thin,20-29,yes,toddler,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,3
+indian,female,moderate,50-59,yes,baby,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,1
+indian,male,thin,30-39,no,nokids,small,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,male,moderate,50-59,no,nokids,small,BW,formal,Primary,long sleeve,BW,long,yes,clothes,2
+malay,male,thin,40-49,no,nokids,small,Primary,casual,Others,long sleeve,Primary,long,no,blankets,0
+malay,female,moderate,40-49,no,nokids,big,Others,formal,Primary,long sleeve,BW,long,no,blankets,2
+indian,male,thin,30-39,no,nokids,small,BW,casual,BW,short sleeve,BW,short,no,clothes,0
+indian,female,fat,40-49,no,nokids,small,Primary,casual,Primary,short sleeve,BW,short,no,clothes,0
+chinese,female,moderate,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Others,long,no,clothes,3
+chinese,female,thin,40-49,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,clothes,0
+malay,male,thin,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Primary,long,yes,clothes,4
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Others,long,no,clothes,4
+chinese,male,thin,40-49,no,nokids,small,BW,casual,Primary,short sleeve,Primary,long,yes,clothes,3
+chinese,female,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Others,long,no,clothes,3
+malay,female,thin,30-39,no,nokids,big,Primary,casual,Primary,long sleeve,BW,long,no,clothes,2
+chinese,male,thin,50-59,no,nokids,small,BW,casual,Primary,short sleeve,BW,long,no,clothes,3
+malay,female,thin,40-49,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+malay,male,moderate,50-59,no,nokids,small,BW,casual,Secondary,short sleeve,Primary,long,no,clothes,2
+chinese,female,fat,40-49,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,yes,clothes,0
+malay,male,fat,30-39,yes,toddler,big,BW,casual,Others,short sleeve,BW,long,no,clothes,0
+malay,female,moderate,40-49,yes,young,big,Primary,traditional,Secondary,long sleeve,BW,long,yes,clothes,2
+chinese,female,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,3
+malay,female,moderate,40-49,yes,toddler,big,Primary,traditional,Secondary,long sleeve,Secondary,long,no,blankets,2
+chinese,male,moderate,50-59,no,nokids,small,BW,casual,Primary,short sleeve,Primary,short,no,clothes,2
+malay,female,fat,40-49,no,nokids,big,Primary,traditional,Others,long sleeve,Others,long,no,clothes,0
+malay,female,moderate,50-59,no,nokids,big,BW,traditional,Secondary,long sleeve,Secondary,long,yes,clothes,2
+indian,male,fat,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+malay,male,thin,50-59,no,nokids,big,BW,traditional,Others,long sleeve,Others,long,no,clothes,3
+malay,male,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,short,yes,clothes,4
+indian,male,thin,30-39,no,nokids,big,BW,formal,BW,long sleeve,BW,long,no,clothes,0
+malay,female,moderate,50-59,no,nokids,big,Primary,traditional,BW,long sleeve,BW,long,no,clothes,2
+malay,female,fat,30-39,no,nokids,big,BW,traditional,Primary,long sleeve,BW,long,no,clothes,2
+malay,female,moderate,50-59,no,nokids,big,Primary,formal,Others,long sleeve,BW,long,no,clothes,2
+chinese,female,thin,40-49,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,blankets,0
+malay,male,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,yes,clothes,3
+malay,female,thin,50-59,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,no,clothes,2
+malay,male,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,yes,clothes,3
+foreigner ,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,fat,50-59,no,nokids,big,Primary,formal,Others,long sleeve,BW,long,no,clothes,2
+malay,male,fat,40-49,no,nokids,big,Secondary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+malay,male,moderate,50-59,no,nokids,small,BW,casual,Others,short sleeve,Others,long,yes,clothes,2
+malay,female,moderate,30-39,no,nokids,small,Secondary,casual,Primary,long sleeve,Secondary,long,no,clothes,2
+malay,female,fat,40-49,no,nokids,big,Primary,casual,Secondary,long sleeve,BW,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,0
+chinese,male,thin,50-59,yes,baby,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+foreigner ,male,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+chinese,female,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,short,no,clothes,3
+indian,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,0
+chinese,female,fat,30-39,yes,toddler,big,Primary,casual,Primary,short sleeve,Secondary,short,no,clothes,1
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,yes,clothes,0
+indian,female,fat,40-49,no,nokids,big,BW,casual,Others,short sleeve,BW,long,no,clothes,0
+malay,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,0
+indian,male,moderate,40-49,no,nokids,big,Primary,formal,BW,short sleeve,BW,long,no,clothes,0
+malay,female,fat,50-59,yes,baby,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+malay,male,fat,30-39,no,nokids,big,Primary,casual,Primary,long sleeve,Others,short,no,clothes,4
+chinese,male,thin,40-49,no,nokids,big,Primary,formal,BW,short sleeve,BW,long,yes,clothes,0
+malay,male,fat,50-59,yes,baby,big,Others,casual,Primary,short sleeve,Others,long,no,clothes,3
+malay,female,moderate,50-59,yes,toddler,big,BW,formal,Others,long sleeve,BW,long,no,clothes,2
+indian,male,moderate,40-49,no,nokids,small,Secondary,formal,BW,short sleeve,BW,long,no,clothes,0
+malay,male,moderate,40-49,no,nokids,big,BW,formal,BW,short sleeve,Others,long,no,clothes,3
+malay,female,fat,50-59,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,BW,casual,BW,short sleeve,Others,long,no,clothes,0
+malay,male,fat,20-29,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,yes,clothes,0
+malay,female,thin,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,short,no,clothes,4
+malay,female,fat,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,thin,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Primary,long,no,clothes,3
+foreigner ,male,thin,30-39,no,nokids,big,BW,formal,Others,short sleeve,Others,long,no,clothes,3
+indian,female,fat,40-49,no,nokids,big,Others,casual,Others,long sleeve,BW,long,no,clothes,0
+malay,female,thin,20-29,yes,baby,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,2
+malay,female,moderate,40-49,no,nokids,big,Secondary,traditional,Primary,long sleeve,Primary,long,yes,clothes,2
+malay,female,moderate,40-49,yes,toddler,big,BW,casual,Primary,short sleeve,Primary,long,no,clothes,1
+malay,female,fat,50-59,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,clothes,0
+chinese,female,thin,30-39,no,nokids,small,BW,casual,Secondary,short sleeve,BW,long,no,clothes,3
+chinese,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,1
+foreigner ,male,thin,40-49,no,nokids,big,Others,casual,Primary,short sleeve,Others,long,no,clothes,0
+foreigner ,female,thin,40-49,no,young,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,moderate,40-49,yes,toddler,big,Primary,casual,Primary,long sleeve,BW,long,no,clothes,2
+indian,female,fat,40-49,yes,young,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+chinese,female,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Others,long,yes,clothes,4
+malay,male,fat,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,yes,clothes,4
+malay,female,thin,20-29,yes,baby,big,Primary,casual,Primary,short sleeve,Others,long,no,clothes,3
+malay,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+malay,male,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,0
+chinese,female,moderate,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,BW,casual,BW,long sleeve,Others,long,no,clothes,0
+indian,female,thin,40-49,no,nokids,big,Secondary,casual,Others,short sleeve,Others,long,no,clothes,0
+malay,female,thin,50-59,no,nokids,big,Primary,casual,Others,long sleeve,Others,long,no,blankets,3
+malay,female,fat,40-49,no,nokids,big,Primary,casual,Primary,long sleeve,Others,long,no,clothes,0
+indian,female,thin,40-49,no,nokids,big,Primary,casual,Secondary,long sleeve,Primary,long,no,clothes,0
+malay,male,fat,50-59,no,nokids,small,BW,casual,Primary,short sleeve,BW,long,no,clothes,0
+chinese,female,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Others,short,no,clothes,3
+malay,male,thin,50-59,yes,toddler,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,3
+indian,female,fat,40-49,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+malay,female,fat,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+malay,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,1
+malay,male,fat,40-49,yes,young,big,Primary,casual,Secondary,short sleeve,Others,short,no,clothes,0
+indian,female,fat,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Others,short,no,clothes,0
+indian,female,fat,30-39,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,50-59,yes,baby,big,Primary,casual,BW,short sleeve,Others,long,yes,blankets,0
+chinese,male,moderate,50-59,no,nokids,small,BW,casual,Primary,short sleeve,Others,short,no,clothes,4
+chinese,male,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Primary,long,no,clothes,3
+malay,female,fat,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Others,long,yes,clothes,2
+malay,female,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,2
+malay,female,thin,50-59,no,nokids,big,BW,casual,Secondary,long sleeve,BW,long,no,clothes,2
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,clothes,0
+indian,female,fat,50-59,no,nokids,small,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+foreigner ,male,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+chinese,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,yes,clothes,4
+indian,female,thin,50-59,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,3
+indian,male,fat,30-39,no,nokids,big,BW,formal,Secondary,long sleeve,BW,long,yes,blankets,0
+malay,female,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Others,long,no,blankets,3
+malay,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,0
+chinese,female,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,3
+chinese,male,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,BW,long,yes,clothes,0
+malay,female,fat,40-49,no,nokids,big,Primary,formal,Primary,long sleeve,Primary,long,no,clothes,2
+malay,female,thin,50-59,yes,young,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,3
+indian,female,moderate,30-39,no,nokids,big,BW,casual,Others,short sleeve,Primary,short,no,clothes,1
+indian,female,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,3
+indian,female,thin,40-49,no,nokids,big,BW,casual,BW,long sleeve,BW,long,yes,blankets,0
+malay,male,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,0
+chinese,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,2
+malay,male,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,blankets,0
+chinese,female,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,3
+malay,female,fat,30-39,no,nokids,big,Others,casual,Others,long sleeve,Primary,long,yes,clothes,2
+malay,female,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,2
+malay,female,fat,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,yes,clothes,3
+indian,male,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Secondary,long,no,clothes,0
+malay,female,fat,40-49,no,nokids,big,Others,casual,Primary,long sleeve,Others,long,no,clothes,2
+malay,female,thin,50-59,no,nokids,big,BW,casual,Others,short sleeve,Others,long,yes,clothes,3
+malay,female,thin,30-39,no,nokids,big,Primary,casual,Primary,long sleeve,Others,long,no,clothes,2
+malay,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+chinese,female,thin,30-39,no,nokids,big,Others,formal,BW,short sleeve,Primary,long,no,clothes,3
+indian,male,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Others,short,no,clothes,4
+chinese,male,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+malay,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,0
+malay,male,fat,50-59,no,nokids,big,Others,casual,Others,short sleeve,Primary,short,yes,clothes,0
+chinese,female,fat,50-59,no,nokids,big,Others,casual,BW,short sleeve,BW,long,no,clothes,3
+chinese,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,yes,clothes,4
+chinese,female,thin,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Others,short,yes,clothes,4
+malay,male,fat,50-59,no,nokids,small,Primary,casual,Secondary,short sleeve,Primary,long,yes,clothes,0
+malay,female,moderate,40-49,no,nokids,big,Secondary,casual,Primary,long sleeve,BW,long,yes,clothes,2
+malay,male,thin,30-39,no,nokids,small,Primary,casual,Secondary,short sleeve,BW,long,yes,clothes,0
+malay,female,fat,40-49,no,nokids,big,BW,casual,Secondary,long sleeve,Others,long,no,clothes,2
+malay,male,moderate,40-49,yes,baby,big,Secondary,casual,BW,short sleeve,Others,long,no,clothes,3
+indian,male,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+chinese,female,moderate,40-49,no,nokids,small,BW,casual,Secondary,short sleeve,Secondary,long,no,clothes,0
+chinese,female,fat,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,4
+malay,male,fat,30-39,no,nokids,small,Others,casual,Others,long sleeve,Primary,short,no,clothes,4
+foreigner ,female,fat,40-49,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,30-39,yes,young,big,BW,formal,Others,short sleeve,Others,long,no,clothes,0
+malay,female,fat,40-49,no,nokids,big,Others,casual,BW,long sleeve,BW,long,no,clothes,2
+chinese,male,fat,30-39,no,nokids,big,BW,casual,Others,short sleeve,Others,short,no,clothes,4
+malay,female,moderate,40-49,no,nokids,big,BW,casual,BW,long sleeve,BW,long,no,clothes,2
+indian,male,fat,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+malay,male,thin,50-59,no,nokids,big,Secondary,formal,Others,long sleeve,BW,long,no,clothes,2
+malay,female,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,0
+malay,female,thin,40-49,no,nokids,big,Primary,casual,Others,long sleeve,Secondary,long,yes,clothes,0
+indian,male,thin,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,no,clothes,4
+malay,male,fat,30-39,yes,young,big,BW,casual,Secondary,short sleeve,Primary,long,no,clothes,1
+foreigner ,male,thin,40-49,no,nokids,big,BW,formal,Secondary,long sleeve,BW,long,no,clothes,0
+indian,male,moderate,50-59,no,nokids,small,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,thin,50-59,no,nokids,big,BW,formal,BW,long sleeve,BW,long,no,clothes,2
+malay,male,fat,40-49,no,nokids,small,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,male,moderate,50-59,no,nokids,big,Secondary,casual,BW,short sleeve,Others,long,no,clothes,3
+indian,female,thin,30-39,no,nokids,big,Primary,casual,Primary,long sleeve,BW,long,no,clothes,2
+indian,male,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,0
+malay,female,fat,40-49,no,nokids,big,Primary,traditional,BW,long sleeve,BW,long,yes,clothes,0
+malay,female,fat,50-59,no,nokids,big,Primary,traditional,Primary,long sleeve,Primary,long,yes,clothes,2
+malay,female,fat,50-59,no,nokids,big,Primary,traditional,Secondary,long sleeve,Secondary,long,no,clothes,2
+malay,female,thin,30-39,no,nokids,big,Others,traditional,Secondary,long sleeve,Secondary,long,yes,clothes,2
+indian,female,thin,20-29,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,blankets,3
+malay,male,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,0
+foreigner ,male,moderate,40-49,no,nokids,big,Others,casual,Secondary,long sleeve,Primary,long,no,clothes,0
+indian,male,thin,50-59,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+malay,female,thin,30-39,no,nokids,small,Others,traditional,Secondary,long sleeve,Secondary,long,no,clothes,3
+malay,female,moderate,30-39,no,nokids,big,BW,casual,Primary,long sleeve,BW,long,no,clothes,2
+malay,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,0
+malay,female,fat,30-39,no,nokids,big,Primary,casual,Others,long sleeve,Others,long,no,clothes,3
+indian,female,moderate,50-59,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,short,no,clothes,4
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,0
+malay,female,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,thin,40-49,no,nokids,small,Others,casual,Others,short sleeve,Others,short,no,clothes,4
+foreigner ,male,thin,40-49,no,nokids,big,Secondary,casual,Secondary,short sleeve,Primary,long,no,clothes,0
+malay,male,fat,50-59,no,nokids,big,Primary,traditional,Others,long sleeve,Others,long,yes,clothes,0
+malay,female,fat,30-39,no,nokids,big,Others,casual,Secondary,short sleeve,BW,long,no,clothes,3
+malay,male,fat,40-49,no,nokids,big,BW,casual,BW,short sleeve,Secondary,long,no,clothes,0
+malay,male,fat,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,yes,clothes,0
+malay,female,thin,50-59,no,nokids,big,Secondary,formal,BW,long sleeve,BW,long,no,clothes,2
+malay,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,yes,blankets,0
+indian,male,moderate,30-39,no,nokids,big,BW,casual,Others,short sleeve,Others,long,no,clothes,0
+malay,female,thin,50-59,no,nokids,big,Others,casual,Secondary,long sleeve,Secondary,long,yes,clothes,3
+indian,female,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,3
+indian,female,fat,40-49,no,nokids,big,BW,formal,Secondary,long sleeve,BW,long,no,clothes,0
+indian,female,fat,30-39,no,nokids,big,BW,traditional,Secondary,short sleeve,BW,long,no,blankets,0
+chinese,male,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,4
+indian,male,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,yes,clothes,4
+indian,female,fat,40-49,no,nokids,big,Primary,formal,BW,long sleeve,BW,long,no,clothes,0
+chinese,female,fat,40-49,no,nokids,big,Others,casual,Secondary,short sleeve,BW,long,no,clothes,0
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,Others,short sleeve,Primary,short,yes,clothes,0
+indian,male,moderate,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Primary,short,no,clothes,4
+malay,female,thin,30-39,no,nokids,big,Primary,formal,Secondary,long sleeve,Primary,long,no,clothes,2
+chinese,male,moderate,50-59,no,nokids,big,BW,casual,Others,short sleeve,BW,short,no,clothes,4
+indian,male,moderate,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,0
+chinese,male,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,short,no,clothes,4
+malay,female,fat,30-39,no,nokids,big,Primary,traditional,Primary,long sleeve,Primary,long,no,clothes,2
+chinese,female,thin,40-49,no,nokids,big,Secondary,casual,Others,long sleeve,BW,long,no,clothes,2
+foreigner ,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,clothes,0
+foreigner ,female,fat,30-39,no,nokids,big,Others,casual,Primary,short sleeve,BW,long,no,clothes,4
+foreigner ,female,fat,50-59,no,nokids,big,BW,casual,Secondary,long sleeve,BW,long,no,blankets,2
+chinese,female,thin,40-49,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+malay,female,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,3
+malay,female,moderate,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,2
+malay,male,fat,30-39,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,short,no,clothes,4
+malay,female,fat,40-49,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,no,clothes,0
+malay,female,thin,50-59,no,nokids,big,Others,casual,Secondary,short sleeve,Others,short,no,clothes,3
+malay,female,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,3
+malay,female,fat,40-49,no,nokids,big,BW,casual,BW,long sleeve,Others,short,no,clothes,2
+chinese,female,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,blankets,4
+malay,male,fat,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,3
+malay,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,yes,clothes,3
+malay,male,fat,30-39,yes,young,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,1
+indian,male,moderate,30-39,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+malay,female,fat,40-49,yes,toddler,big,Primary,casual,BW,short sleeve,Others,long,yes,clothes,0
+malay,male,thin,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Others,long,no,clothes,4
+malay,male,moderate,30-39,no,nokids,big,Primary,formal,BW,short sleeve,Others,long,no,clothes,0
+malay,female,thin,40-49,yes,toddler,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,3
+chinese,male,moderate,50-59,yes,young,big,BW,casual,Others,short sleeve,Primary,long,no,clothes,1
+malay,male,moderate,40-49,no,nokids,big,BW,casual,Others,long sleeve,Secondary,long,no,clothes,2
+malay,female,fat,30-39,no,nokids,big,Secondary,casual,Primary,short sleeve,Others,long,no,clothes,3
+malay,female,moderate,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,2
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,blankets,0
+chinese,male,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Others,long,no,clothes,3
+malay,female,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,3
+chinese,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,short,no,clothes,4
+indian,male,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,blankets,0
+foreigner ,male,thin,30-39,no,nokids,big,BW,casual,Others,short sleeve,BW,short,no,clothes,4
+indian,male,moderate,40-49,no,nokids,small,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+foreigner ,female,fat,20-29,no,nokids,big,Secondary,casual,Others,short sleeve,Primary,long,no,clothes,0
+foreigner ,female,moderate,40-49,no,nokids,big,Primary,casual,Others,short sleeve,Others,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,BW,long,yes,clothes,0
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,short,no,blankets,4
+malay,male,thin,30-39,no,nokids,small,BW,casual,BW,short sleeve,BW,long,no,clothes,3
+malay,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,Primary,formal,BW,short sleeve,Others,long,no,clothes,0
+indian,female,fat,30-39,no,nokids,big,Primary,traditional,Primary,short sleeve,BW,long,no,clothes,0
+malay,female,thin,40-49,yes,toddler,big,Primary,traditional,Others,long sleeve,Others,long,no,clothes,3
+malay,female,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,3
+chinese,female,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Others,short,no,clothes,3
+malay,male,thin,20-29,yes,toddler,big,BW,casual,BW,short sleeve,BW,short,yes,clothes,1
+malay,male,thin,40-49,no,nokids,big,BW,formal,BW,short sleeve,BW,long,no,clothes,3
+indian,female,thin,30-39,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,blankets,0
+indian,male,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,blankets,0
+indian,male,moderate,40-49,no,nokids,big,BW,formal,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,40-49,no,nokids,big,Primary,casual,Secondary,short sleeve,Primary,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,Primary,casual,Secondary,short sleeve,Others,long,no,clothes,0
+malay,male,moderate,50-59,no,nokids,big,Others,casual,Primary,short sleeve,Secondary,short,yes,clothes,2
+malay,female,thin,30-39,no,nokids,big,BW,casual,BW,long sleeve,Primary,long,no,clothes,3
+chinese,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,4
+indian,male,moderate,30-39,no,nokids,big,Primary,casual,Secondary,short sleeve,Others,long,no,clothes,0
+foreigner ,female,moderate,40-49,no,nokids,small,Primary,traditional,Primary,long sleeve,Primary,long,no,clothes,2
+foreigner ,female,thin,40-49,no,nokids,big,Primary,traditional,Secondary,long sleeve,Secondary,long,no,clothes,0
+malay,male,fat,50-59,yes,young,big,BW,traditional,BW,long sleeve,BW,long,no,clothes,2
+chinese,male,fat,50-59,yes,young,big,BW,casual,Primary,short sleeve,Others,long,yes,blankets,1
+indian,male,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,clothes,4
+malay,male,moderate,40-49,no,nokids,big,Others,casual,BW,short sleeve,Others,long,no,clothes,0
+foreigner ,male,moderate,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,0
+malay,female,moderate,30-39,yes,baby,big,Others,casual,BW,short sleeve,Primary,long,no,clothes,1
+indian,female,thin,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,3
+indian,male,moderate,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,BW,short,no,clothes,0
+malay,female,moderate,40-49,yes,toddler,big,Others,casual,BW,short sleeve,Primary,long,no,clothes,1
+chinese,male,thin,50-59,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,3
+malay,female,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,3
+indian,female,thin,30-39,no,nokids,big,BW,formal,Primary,long sleeve,BW,long,no,blankets,2
+chinese,male,moderate,40-49,no,nokids,big,Primary,casual,Others,short sleeve,BW,short,no,clothes,4
+chinese,male,fat,40-49,no,nokids,big,Secondary,casual,Others,short sleeve,Others,short,yes,clothes,4
+malay,female,thin,50-59,yes,toddler,big,BW,casual,BW,long sleeve,BW,long,no,clothes,2
+indian,male,thin,30-39,no,nokids,big,Secondary,casual,Others,short sleeve,Others,long,yes,blankets,3
+indian,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,thin,50-59,yes,baby,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,40-49,no,nokids,big,Primary,casual,Others,short sleeve,BW,short,yes,clothes,0
+malay,female,fat,30-39,yes,toddler,big,Primary,traditional,BW,long sleeve,BW,long,no,clothes,0
+chinese,male,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+indian,male,moderate,50-59,no,nokids,big,Secondary,casual,BW,short sleeve,Others,short,no,blankets,0
+chinese,male,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,3
+chinese,male,thin,40-49,yes,toddler,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,male,fat,50-59,yes,young,big,BW,casual,Others,short sleeve,Primary,long,no,blankets,1
+indian,male,thin,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,0
+malay,female,fat,50-59,no,nokids,big,Primary,casual,Secondary,long sleeve,Secondary,long,no,clothes,2
+indian,male,thin,40-49,yes,young,big,Secondary,formal,Primary,short sleeve,Others,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,Primary,long,yes,blankets,0
+chinese,female,thin,50-59,yes,baby,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,2
+malay,male,thin,50-59,yes,young,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,3
+indian,female,thin,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,short,no,blankets,4
+indian,female,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,2
+indian,male,thin,50-59,no,nokids,big,Primary,casual,BW,long sleeve,Others,long,no,clothes,3
+chinese,female,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,blankets,3
+malay,female,moderate,40-49,yes,young,big,Secondary,casual,Others,short sleeve,Others,long,no,clothes,1
+malay,female,fat,40-49,yes,young,big,Secondary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,male,moderate,50-59,yes,toddler,big,Others,casual,Primary,short sleeve,Primary,long,no,clothes,2
+malay,female,fat,50-59,yes,young,big,Primary,casual,Others,long sleeve,Primary,long,no,clothes,2
+indian,male,fat,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,40-49,no,nokids,big,Others,casual,Primary,short sleeve,Primary,long,no,blankets,0
+chinese,male,fat,40-49,no,nokids,big,Secondary,casual,BW,short sleeve,Primary,long,no,clothes,0
+malay,female,moderate,40-49,no,nokids,small,BW,formal,Others,long sleeve,Primary,long,no,clothes,2
+foreigner ,female,thin,50-59,no,nokids,big,BW,traditional,BW,long sleeve,BW,long,no,clothes,2
+foreigner ,female,thin,30-39,no,nokids,big,Primary,traditional,BW,long sleeve,BW,long,no,clothes,4
+chinese,male,fat,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,BW,short,yes,clothes,4
+indian,male,moderate,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,Others,short,no,clothes,0
+indian,male,fat,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Secondary,long,no,clothes,0
+indian,male,thin,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,4
+malay,female,moderate,20-29,no,nokids,big,BW,casual,Others,long sleeve,BW,long,no,clothes,2
+chinese,male,thin,50-59,no,nokids,big,Secondary,casual,BW,short sleeve,Others,short,yes,clothes,4
+indian,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+foreigner ,male,fat,50-59,no,nokids,big,BW,casual,Secondary,short sleeve,Others,long,no,blankets,3
+malay,female,thin,30-39,no,nokids,big,Primary,traditional,Secondary,long sleeve,Secondary,long,yes,clothes,2
+malay,female,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,3
+chinese,male,thin,30-39,yes,young,big,Primary,casual,BW,short sleeve,Primary,short,yes,clothes,1
+indian,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+chinese,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,clothes,4
+indian,male,fat,40-49,no,nokids,big,Primary,casual,Others,short sleeve,Primary,long,no,clothes,0
+foreigner ,female,fat,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Primary,long,no,clothes,0
+indian,male,fat,50-59,no,nokids,big,Others,casual,Secondary,short sleeve,BW,short,no,blankets,0
+indian,male,thin,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,short,no,clothes,4
+indian,male,moderate,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,yes,clothes,0
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,Others,short sleeve,Primary,long,no,clothes,0
+chinese,male,thin,50-59,yes,young,big,Primary,formal,BW,long sleeve,BW,long,yes,blankets,4
+foreigner ,female,fat,30-39,no,nokids,big,Others,casual,Primary,short sleeve,BW,long,no,clothes,2
+indian,male,moderate,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+chinese,male,fat,50-59,no,nokids,big,BW,casual,Secondary,long sleeve,BW,short,no,clothes,2
+indian,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,0
+indian,female,fat,40-49,no,nokids,big,Others,traditional,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,fat,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,long,no,clothes,4
+indian,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,no,blankets,0
+indian,male,thin,50-59,no,nokids,big,Secondary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,BW,formal,BW,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,moderate,50-59,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,no,clothes,2
+indian,male,thin,40-49,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,clothes,0
+indian,male,fat,30-39,no,nokids,big,Secondary,casual,Secondary,short sleeve,Others,long,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,BW,formal,BW,long sleeve,BW,long,yes,clothes,0
+indian,male,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+indian,male,moderate,40-49,yes,baby,big,Secondary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+indian,female,moderate,40-49,no,nokids,big,Secondary,casual,Primary,short sleeve,Primary,short,no,clothes,4
+indian,female,moderate,40-49,no,nokids,big,Primary,formal,Secondary,short sleeve,BW,long,no,clothes,0
+indian,female,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+chinese,male,fat,50-59,no,nokids,big,BW,casual,Others,short sleeve,BW,short,no,clothes,4
+indian,female,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,0
+indian,female,thin,50-59,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,clothes,3
+indian,male,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,0
+foreigner ,male,thin,50-59,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,long,no,clothes,4
+chinese,female,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+foreigner ,female,thin,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,long,no,clothes,0
+chinese,male,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,no,clothes,4
+chinese,male,thin,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,BW,short,no,blankets,4
+indian,female,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,yes,clothes,1
+indian,female,fat,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+indian,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,4
+foreigner ,female,thin,40-49,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+chinese,female,moderate,30-39,yes,young,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+indian,female,fat,50-59,yes,young,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,1
+chinese,male,thin,40-49,no,nokids,big,BW,casual,Others,short sleeve,BW,long,no,clothes,0
+foreigner ,female,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,0
+foreigner ,female,thin,40-49,no,nokids,big,Primary,casual,Others,short sleeve,Others,long,no,clothes,3
+indian,female,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,50-59,no,nokids,big,Secondary,casual,Secondary,short sleeve,BW,long,no,clothes,4
+foreigner ,male,moderate,40-49,no,nokids,small,BW,casual,BW,short sleeve,Secondary,long,no,clothes,0
+indian,male,fat,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Others,long,no,clothes,0
+indian,male,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,clothes,0
+chinese,male,thin,20-29,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,no,clothes,4
+indian,male,moderate,40-49,yes,young,big,Secondary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,female,fat,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,short,no,clothes,0
+foreigner ,male,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,4
+indian,male,fat,40-49,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,blankets,0
+indian,female,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Others,short,no,clothes,4
+chinese,male,thin,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Primary,short,no,clothes,4
+malay,female,fat,30-39,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+foreigner ,male,moderate,40-49,no,nokids,big,Secondary,casual,Others,short sleeve,BW,long,no,clothes,0
+chinese,female,thin,40-49,no,nokids,big,BW,formal,Primary,long sleeve,Primary,long,yes,clothes,2
+indian,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+malay,female,fat,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+malay,female,thin,50-59,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,no,clothes,2
+chinese,female,moderate,50-59,no,nokids,big,Secondary,casual,Secondary,short sleeve,Primary,short,no,clothes,1
+malay,female,thin,30-39,no,nokids,big,Others,casual,BW,short sleeve,BW,long,no,clothes,3
+chinese,male,thin,40-49,no,nokids,big,BW,formal,BW,short sleeve,Primary,long,no,clothes,0
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,Others,short sleeve,Primary,short,no,clothes,1
+indian,male,thin,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,0
+indian,male,thin,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,no,clothes,4
+indian,male,thin,50-59,no,nokids,big,Others,casual,BW,short sleeve,Primary,short,no,clothes,0
+malay,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,3
+foreigner ,female,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Secondary,long,no,clothes,3
+foreigner ,female,moderate,50-59,no,nokids,big,BW,casual,Primary,long sleeve,Primary,long,no,blankets,2
+chinese,male,moderate,50-59,no,nokids,big,Primary,traditional,BW,long sleeve,BW,long,yes,blankets,2
+indian,male,moderate,50-59,no,nokids,small,Primary,formal,Primary,short sleeve,Primary,long,no,clothes,0
+chinese,male,thin,30-39,yes,toddler,big,Primary,casual,Primary,short sleeve,Others,long,no,clothes,4
+chinese,female,fat,50-59,no,nokids,big,Primary,casual,Others,long sleeve,Primary,long,no,clothes,2
+indian,female,thin,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,no,clothes,4
+indian,male,moderate,50-59,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+indian,male,moderate,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,0
+indian,male,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,0
+chinese,female,fat,30-39,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,no,blankets,0
+chinese,male,moderate,30-39,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,4
+foreigner ,male,moderate,30-39,no,nokids,big,Primary,casual,Secondary,short sleeve,BW,long,yes,blankets,0
+chinese,male,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,yes,clothes,3
+chinese,male,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,BW,long,no,clothes,4
+chinese,male,thin,50-59,no,nokids,big,Secondary,casual,BW,short sleeve,Primary,long,yes,blankets,0
+chinese,male,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Others,short,no,clothes,4
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,no,blankets,0
+chinese,male,thin,20-29,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,yes,blankets,4
+indian,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Secondary,short,no,blankets,3
+malay,female,thin,30-39,no,nokids,big,Primary,traditional,BW,long sleeve,BW,long,no,blankets,3
+indian,male,fat,40-49,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,clothes,0
+indian,female,moderate,20-29,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,blankets,0
+chinese,male,thin,50-59,no,nokids,big,BW,formal,BW,short sleeve,BW,long,no,clothes,3
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Others,long,no,clothes,3
+chinese,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,long,yes,blankets,0
+indian,female,thin,30-39,no,nokids,big,Others,casual,BW,short sleeve,Others,long,no,blankets,3
+chinese,male,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,clothes,2
+foreigner ,female,moderate,30-39,no,nokids,big,Primary,casual,Primary,long sleeve,BW,long,no,clothes,2
+foreigner ,female,fat,30-39,no,nokids,big,BW,casual,BW,long sleeve,Primary,long,no,clothes,3
+indian,female,thin,40-49,no,nokids,big,Others,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,female,fat,50-59,no,nokids,big,Others,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,3
+foreigner ,female,thin,40-49,yes,young,big,Others,casual,BW,short sleeve,Primary,long,no,clothes,1
+chinese,female,moderate,20-29,yes,young,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,1
+foreigner ,male,thin,30-39,yes,young,big,BW,traditional,Primary,long sleeve,Primary,long,no,clothes,1
+malay,female,fat,50-59,yes,toddler,big,Others,casual,Primary,short sleeve,BW,long,yes,blankets,2
+malay,female,fat,30-39,yes,young,big,Others,traditional,Others,long sleeve,Others,long,yes,blankets,1
+chinese,male,moderate,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,4
+indian,female,fat,50-59,yes,young,big,Others,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,moderate,30-39,yes,toddler,big,Others,casual,BW,short sleeve,BW,long,no,clothes,1
+indian,female,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,yes,clothes,3
+malay,female,fat,50-59,yes,young,big,Primary,casual,Primary,long sleeve,BW,long,no,blankets,2
+malay,female,fat,20-29,yes,toddler,big,Primary,traditional,BW,long sleeve,BW,long,yes,blankets,0
+malay,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Others,long,no,blankets,1
+chinese,male,fat,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,yes,blankets,0
+chinese,male,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,4
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,0
+indian,female,fat,30-39,yes,young,big,Others,casual,BW,short sleeve,BW,long,no,blankets,1
+indian,female,moderate,40-49,yes,toddler,big,Others,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,moderate,50-59,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,no,clothes,2
+chinese,male,thin,50-59,no,nokids,big,BW,formal,BW,short sleeve,Primary,long,no,clothes,3
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,Others,short sleeve,Primary,short,no,clothes,1
+indian,male,thin,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,0
+indian,male,thin,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,no,clothes,4
+indian,male,thin,50-59,no,nokids,big,Others,casual,BW,short sleeve,Primary,short,no,clothes,0
+foreigner ,female,fat,50-59,no,nokids,big,BW,casual,BW,long sleeve,BW,long,no,blankets,2
+indian,female,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,moderate,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,BW,short,no,clothes,4
+chinese,male,thin,30-39,no,nokids,big,Secondary,casual,Others,short sleeve,Others,short,yes,blankets,4
+indian,male,moderate,30-39,no,nokids,big,Secondary,casual,Secondary,short sleeve,BW,short,no,blankets,4
+foreigner ,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,fat,40-49,yes,toddler,big,Primary,formal,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,30-39,yes,young,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+indian,female,fat,40-49,yes,young,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+chinese,male,thin,50-59,no,nokids,big,BW,casual,Others,short sleeve,BW,long,no,clothes,0
+foreigner ,female,moderate,20-29,no,nokids,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,0
+foreigner ,female,thin,30-39,no,nokids,big,Primary,casual,Others,short sleeve,Others,long,no,clothes,3
+indian,female,thin,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,40-49,no,nokids,big,Secondary,casual,Secondary,short sleeve,BW,long,no,clothes,4
+chinese,female,moderate,30-39,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,long,no,blankets,2
+indian,female,moderate,30-39,no,nokids,big,Secondary,casual,Primary,short sleeve,Primary,short,no,clothes,1
+indian,female,moderate,40-49,no,nokids,big,Primary,formal,Secondary,short sleeve,BW,long,no,clothes,0
+indian,female,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+chinese,male,fat,50-59,no,nokids,big,BW,casual,Others,short sleeve,BW,short,no,clothes,4
+indian,female,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,BW,short,no,clothes,0
+indian,female,thin,30-39,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,clothes,3
+chinese,male,thin,40-49,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,short,no,blankets,4
+chinese,male,thin,50-59,yes,toddler,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+indian,male,thin,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,clothes,0
+malay,female,fat,30-39,no,nokids,big,Primary,casual,Secondary,long sleeve,Secondary,long,no,clothes,2
+indian,male,thin,30-39,yes,young,big,Secondary,formal,Primary,short sleeve,Others,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,Primary,long,yes,blankets,0
+chinese,female,thin,30-39,yes,baby,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,1
+malay,male,thin,40-49,no,nokids,small,BW,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,male,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,BW,long,yes,clothes,0
+indian,male,thin,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,yes,blankets,0
+indian,female,fat,50-59,no,nokids,big,Primary,traditional,Primary,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,thin,40-49,no,nokids,big,Others,casual,BW,short sleeve,BW,short,yes,clothes,4
+indian,male,fat,30-39,no,nokids,big,BW,casual,BW,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,fat,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,blankets,0
+chinese,female,moderate,40-49,no,nokids,big,Others,casual,Others,short sleeve,Others,long,yes,clothes,3
+chinese,female,moderate,30-39,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,long,no,blankets,2
+indian,female,moderate,50-59,no,nokids,big,Secondary,casual,Primary,short sleeve,Primary,short,no,clothes,1
+indian,female,moderate,40-49,no,nokids,big,Primary,formal,Secondary,short sleeve,BW,long,no,clothes,0
+chinese,male,thin,40-49,no,nokids,big,Primary,casual,BW,long sleeve,Primary,long,no,clothes,0
+indian,male,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Primary,long,no,blankets,3
+indian,male,moderate,50-59,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,short,no,clothes,0
+chinese,female,thin,50-59,no,nokids,big,Primary,casual,BW,long sleeve,Primary,long,no,clothes,2
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,30-39,yes,young,big,Primary,casual,Others,short sleeve,Primary,long,no,clothes,0
+indian,male,fat,20-29,no,nokids,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,0
+indian,male,fat,30-39,no,nokids,big,Primary,casual,Secondary,short sleeve,Others,long,yes,clothes,0
+chinese,male,moderate,50-59,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,yes,blankets,4
+indian,male,fat,30-39,yes,young,big,Primary,casual,Primary,short sleeve,Primary,long,no,clothes,0
+foreigner ,male,fat,40-49,no,nokids,big,BW,casual,Secondary,short sleeve,Others,short,no,blankets,0
+foreigner ,male,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,1
+chinese,male,fat,30-39,yes,young,big,Secondary,casual,BW,short sleeve,Primary,short,yes,clothes,1
+malay,female,fat,30-39,yes,toddler,big,Primary,casual,Primary,short sleeve,Others,long,no,clothes,3
+malay,female,moderate,30-39,no,nokids,big,BW,casual,Others,long sleeve,Primary,long,no,clothes,2
+chinese,male,moderate,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,long,no,clothes,0
+indian,female,moderate,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,Others,long,no,clothes,0
+chinese,male,thin,30-39,no,nokids,big,Secondary,casual,Others,short sleeve,BW,long,no,blankets,4
+chinese,female,thin,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Primary,long,yes,blankets,3
+malay,female,fat,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,yes,clothes,3
+malay,female,fat,40-49,no,nokids,big,BW,traditional,Primary,long sleeve,Primary,long,yes,blankets,2
+indian,female,fat,30-39,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,moderate,40-49,yes,baby,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,1
+chinese,female,fat,40-49,yes,toddler,big,Primary,casual,Primary,short sleeve,Secondary,short,no,clothes,0
+indian,female,fat,30-39,yes,young,big,Primary,casual,Secondary,short sleeve,BW,long,no,clothes,0
+indian,female,moderate,50-59,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,fat,40-49,no,nokids,big,BW,traditional,BW,short sleeve,BW,long,no,blankets,0
+chinese,female,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,blankets,3
+chinese,female,fat,40-49,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,no,blankets,0
+indian,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Secondary,short,no,blankets,0
+indian,female,moderate,30-39,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,blankets,0
+indian,female,fat,40-49,yes,young,big,Others,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,fat,30-39,yes,young,big,Others,casual,BW,short sleeve,BW,long,no,blankets,0
+chinese,female,moderate,30-39,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,long,no,blankets,2
+chinese,female,moderate,50-59,no,nokids,big,Secondary,casual,Primary,short sleeve,BW,long,no,blankets,2
+indian,female,moderate,50-59,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,fat,40-49,no,nokids,big,BW,traditional,Secondary,short sleeve,BW,long,no,blankets,0
+chinese,female,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Others,long,no,blankets,3
+chinese,female,fat,40-49,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,no,blankets,0
+indian,female,fat,40-49,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,moderate,40-49,no,nokids,big,Secondary,casual,Primary,short sleeve,Primary,short,yes,clothes,4
+indian,female,thin,50-59,yes,young,big,BW,casual,BW,short sleeve,BW,short,no,blankets,1
+malay,female,moderate,30-39,no,nokids,big,Primary,casual,Primary,long sleeve,BW,long,no,clothes,2
+indian,female,fat,40-49,yes,young,big,BW,casual,BW,short sleeve,BW,short,yes,clothes,1
+foreigner ,female,thin,40-49,yes,baby,big,Secondary,formal,Primary,long sleeve,BW,long,yes,clothes,2
+malay,female,fat,50-59,no,nokids,big,Primary,formal,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+chinese,male,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,BW,short,yes,clothes,0
+indian,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+malay,female,fat,40-49,no,nokids,big,BW,casual,Secondary,long sleeve,BW,long,no,clothes,2
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,yes,clothes,4
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,Others,short sleeve,Primary,short,no,clothes,1
+indian,female,fat,50-59,no,nokids,small,BW,traditional,Primary,short sleeve,BW,long,no,clothes,2
+indian,female,fat,50-59,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,fat,40-49,no,nokids,big,BW,formal,Secondary,long sleeve,BW,long,no,clothes,2
+indian,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,fat,40-49,no,nokids,big,Others,traditional,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+indian,female,fat,30-39,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,moderate,30-39,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,moderate,50-59,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,fat,50-59,yes,nokids,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,3
+indian,female,fat,30-39,yes,young,big,BW,casual,BW,short sleeve,BW,short,yes,clothes,1
+foreigner ,female,moderate,50-59,yes,young,big,Primary,casual,Others,long sleeve,BW,long,no,clothes,2
+chinese,male,moderate,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,2
+foreigner ,male,fat,50-59,no,nokids,big,Primary,formal,Primary,long sleeve,BW,long,no,blankets,2
+foreigner ,male,fat,40-49,no,nokids,big,BW,casual,Secondary,short sleeve,BW,short,no,clothes,0
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,fat,30-39,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+foreigner ,male,fat,20-29,no,nokids,big,BW,traditional,Others,long sleeve,Others,long,no,clothes,2
+indian,male,fat,40-49,yes,toddler,big,BW,formal,BW,short sleeve,Others,long,no,clothes,0
+indian,male,fat,30-39,yes,young,big,Secondary,casual,Primary,short sleeve,BW,long,yes,blankets,0
+chinese,male,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,yes,clothes,1
+foreigner ,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,fat,40-49,no,nokids,big,BW,formal,Primary,long sleeve,BW,long,yes,blankets,0
+malay,female,fat,30-39,yes,young,big,Others,traditional,Primary,long sleeve,Primary,long,yes,clothes,1
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,2
+indian,female,moderate,40-49,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,yes,blankets,0
+chinese,male,fat,40-49,no,nokids,big,Others,casual,Primary,short sleeve,BW,short,no,clothes,4
+chinese,female,fat,30-39,no,nokids,big,Primary,casual,Others,long sleeve,Primary,long,no,clothes,2
+indian,male,fat,40-49,no,nokids,big,Others,casual,BW,short sleeve,Primary,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,Others,casual,BW,short sleeve,BW,short,no,clothes,0
+indian,male,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+foreigner ,female,moderate,40-49,no,nokids,big,BW,casual,Others,long sleeve,BW,long,yes,blankets,2
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,Secondary,short sleeve,Primary,long,no,clothes,0
+indian,male,moderate,50-59,no,nokids,big,Primary,formal,Primary,long sleeve,BW,long,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,Secondary,casual,BW,short sleeve,Others,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,0
+indian,male,fat,50-59,no,nokids,big,BW,formal,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,Others,long,no,blankets,0
+indian,female,thin,40-49,no,nokids,big,Primary,casual,Others,short sleeve,BW,short,no,clothes,4
+foreigner ,female,fat,50-59,yes,young,big,BW,casual,Primary,short sleeve,BW,short,no,blankets,1
+indian,male,fat,30-39,yes,young,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,0
+chinese,female,moderate,40-49,yes,young,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+chinese,female,moderate,20-29,yes,young,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,1
+foreigner ,female,fat,50-59,yes,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,50-59,yes,young,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+foreigner ,female,moderate,30-39,yes,young,big,Primary,casual,Others,long sleeve,BW,long,no,clothes,1
+chinese,male,thin,40-49,yes,toddler,big,Primary,casual,BW,short sleeve,BW,short,yes,clothes,4
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,yes,clothes,4
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,0
+foreigner ,male,thin,40-49,no,nokids,small,Others,casual,Others,short sleeve,Others,short,no,clothes,4
+chinese,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,40-49,no,nokids,big,BW,casual,Secondary,short sleeve,Others,short,no,blankets,0
+chinese,male,fat,50-59,no,nokids,big,Primary,formal,BW,short sleeve,BW,short,yes,clothes,0
+chinese,female,moderate,40-49,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,40-49,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,30-39,no,nokids,big,BW,formal,Secondary,short sleeve,BW,short,no,clothes,4
+chinese,male,fat,30-39,no,nokids,big,Others,formal,Primary,short sleeve,BW,short,no,clothes,4
+chinese,male,thin,50-59,yes,toddler,big,Primary,formal,BW,short sleeve,BW,short,yes,clothes,4
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,yes,clothes,4
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,4
+foreigner ,male,thin,40-49,no,nokids,small,Others,formal,Others,short sleeve,Others,short,no,clothes,4
+chinese,female,moderate,50-59,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,30-39,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,50-59,no,nokids,big,BW,formal,Secondary,short sleeve,Others,short,no,blankets,3
+chinese,male,fat,40-49,no,nokids,big,Primary,formal,BW,short sleeve,BW,short,yes,clothes,0
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,50-59,no,nokids,big,BW,casual,Secondary,short sleeve,BW,short,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,Others,casual,Primary,short sleeve,BW,short,no,blankets,4
+chinese,female,moderate,40-49,yes,toddler,big,BW,casual,BW,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,40-49,yes,baby,big,BW,casual,BW,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,40-49,yes,baby,big,BW,formal,BW,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,50-59,yes,toddler,big,Others,casual,BW,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,40-49,yes,toddler,big,Secondary,casual,Secondary,short sleeve,Secondary,short,no,blankets,1
+chinese,female,moderate,40-49,yes,baby,big,Primary,formal,Secondary,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,50-59,yes,baby,big,BW,formal,Others,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,30-39,yes,baby,big,Secondary,formal,Secondary,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,30-39,yes,baby,big,BW,formal,Secondary,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,40-49,yes,baby,big,Primary,formal,Others,short sleeve,Primary,short,no,blankets,1
+chinese,female,moderate,40-49,yes,baby,big,Others,formal,Secondary,short sleeve,BW,short,no,blankets,1
+chinese,female,moderate,40-49,yes,toddler,big,BW,casual,Secondary,short sleeve,BW,short,no,blankets,1
+chinese,female,moderate,40-49,yes,baby,big,BW,formal,Others,short sleeve,Others,long,yes,blankets,1
+malay,female,fat,40-49,no,nokids,big,BW,casual,Secondary,long sleeve,BW,long,no,clothes,2
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,yes,clothes,0
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,Others,short sleeve,Primary,short,no,clothes,1
+indian,female,fat,40-49,no,nokids,small,BW,traditional,Primary,short sleeve,BW,long,no,clothes,0
+indian,female,fat,40-49,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,fat,50-59,no,nokids,big,BW,formal,Secondary,long sleeve,BW,long,no,clothes,2
+indian,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,fat,30-39,no,nokids,big,Others,traditional,BW,short sleeve,BW,long,no,clothes,0
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,40-49,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+indian,female,fat,30-39,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,Secondary,short,no,clothes,1
+indian,female,fat,40-49,yes,young,small,BW,traditional,Others,short sleeve,Primary,long,no,clothes,1
+indian,female,fat,30-39,yes,young,big,BW,casual,BW,short sleeve,BW,short,yes,clothes,1
+foreigner ,female,moderate,30-39,yes,young,big,Primary,casual,Others,long sleeve,BW,long,no,clothes,1
+chinese,male,moderate,20-29,no,nokids,big,Primary,casual,Primary,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,fat,40-49,no,nokids,big,Primary,formal,Primary,long sleeve,BW,long,no,blankets,0
+foreigner ,male,fat,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,BW,short,no,clothes,4
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,0
+foreigner ,male,fat,50-59,no,nokids,big,Primary,casual,BW,long sleeve,BW,long,no,clothes,0
+foreigner ,male,fat,50-59,no,nokids,big,BW,traditional,Others,long sleeve,Others,long,no,clothes,2
+indian,male,fat,40-49,yes,toddler,big,BW,formal,BW,short sleeve,Others,long,no,clothes,0
+indian,male,fat,40-49,yes,young,big,Secondary,casual,Primary,short sleeve,BW,long,yes,blankets,0
+chinese,male,moderate,40-49,no,nokids,big,Primary,casual,BW,short sleeve,Primary,short,yes,clothes,0
+foreigner ,male,fat,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0
+indian,female,fat,30-39,no,nokids,big,BW,formal,Primary,long sleeve,BW,long,yes,blankets,2
+malay,female,fat,50-59,yes,young,big,Others,traditional,Primary,long sleeve,Primary,long,yes,clothes,2
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,Primary,short sleeve,Others,long,no,clothes,2
+indian,female,moderate,20-29,no,nokids,big,Primary,casual,Others,long sleeve,BW,long,yes,blankets,2
+chinese,male,fat,30-39,no,nokids,big,Others,casual,Primary,short sleeve,BW,short,no,clothes,4
+chinese,female,fat,50-59,no,nokids,big,Primary,casual,Others,long sleeve,Primary,long,no,clothes,2
+indian,male,fat,30-39,no,nokids,big,Others,casual,BW,short sleeve,Primary,long,no,clothes,0
+indian,male,fat,40-49,no,nokids,big,Others,casual,BW,short sleeve,BW,short,no,clothes,0
+indian,male,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,long,no,clothes,0
+foreigner ,female,moderate,30-39,no,nokids,big,BW,casual,Others,long sleeve,BW,long,yes,blankets,2
+chinese,male,fat,50-59,no,nokids,big,Primary,casual,Secondary,short sleeve,Primary,long,no,clothes,0
+indian,male,moderate,50-59,no,nokids,big,Primary,formal,Primary,long sleeve,BW,long,no,clothes,2
+indian,male,moderate,40-49,no,nokids,big,Secondary,casual,Secondary,short sleeve,Others,long,no,clothes,0
+indian,male,fat,50-59,no,nokids,big,BW,casual,Primary,short sleeve,Others,short,no,clothes,3
+indian,male,fat,40-49,no,nokids,big,Secondary,formal,Primary,short sleeve,BW,long,no,clothes,0
+indian,male,fat,50-59,no,nokids,big,BW,casual,Secondary,short sleeve,Others,long,no,blankets,0
+indian,female,thin,30-39,no,nokids,big,Primary,casual,Others,short sleeve,BW,short,no,clothes,4
+foreigner ,male,fat,50-59,yes,young,big,BW,casual,Primary,short sleeve,Others,short,no,blankets,1
+indian,male,fat,40-49,yes,young,big,BW,casual,Primary,short sleeve,BW,long,no,blankets,0
+chinese,female,moderate,50-59,yes,young,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+chinese,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,BW,long,yes,clothes,1
+foreigner ,female,moderate,40-49,yes,young,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,1
+chinese,female,moderate,40-49,yes,young,big,BW,casual,Secondary,short sleeve,Others,short,no,clothes,1
+foreigner ,female,moderate,50-59,yes,young,big,Primary,casual,Others,long sleeve,BW,long,no,clothes,2
+chinese,male,thin,30-39,yes,toddler,big,Primary,casual,BW,short sleeve,BW,short,yes,clothes,4
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,yes,clothes,4
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,0
+foreigner ,male,thin,30-39,no,nokids,small,Others,casual,Others,short sleeve,Others,short,no,clothes,4
+chinese,female,moderate,30-39,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,40-49,no,nokids,big,BW,casual,BW,short sleeve,Others,short,no,blankets,0
+chinese,male,fat,40-49,no,nokids,big,Primary,formal,BW,short sleeve,BW,short,yes,clothes,0
+chinese,female,moderate,50-59,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,moderate,30-39,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,40-49,no,nokids,big,BW,formal,Secondary,short sleeve,BW,short,no,clothes,0
+chinese,male,fat,30-39,no,nokids,big,Others,formal,Primary,short sleeve,BW,short,no,clothes,4
+chinese,male,fat,40-49,yes,toddler,big,Primary,formal,BW,short sleeve,BW,short,yes,clothes,0
+chinese,male,fat,30-39,no,nokids,big,Primary,casual,Primary,short sleeve,Secondary,short,yes,clothes,4
+chinese,male,fat,40-49,no,nokids,big,Primary,casual,BW,short sleeve,BW,short,no,clothes,0
+foreigner ,male,thin,40-49,no,nokids,small,Others,formal,BW,short sleeve,Others,short,no,clothes,4
+chinese,female,thin,40-49,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+chinese,female,fat,50-59,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,thin,30-39,no,nokids,big,BW,formal,Secondary,short sleeve,Others,short,no,blankets,4
+chinese,male,thin,40-49,no,nokids,big,Primary,formal,BW,short sleeve,BW,short,yes,clothes,4
+chinese,female,thin,50-59,no,nokids,big,BW,casual,BW,short sleeve,Primary,short,no,clothes,3
+chinese,female,thin,40-49,no,nokids,big,BW,formal,BW,short sleeve,Primary,short,no,clothes,1
+foreigner ,male,fat,40-49,no,nokids,big,BW,casual,Secondary,short sleeve,BW,short,no,clothes,0
+chinese,male,thin,30-39,no,nokids,big,Others,formal,Primary,short sleeve,BW,short,no,blankets,4
+malay,female,fat,30-39,yes,toddler,big,BW,casual,BW,short sleeve,Primary,short,no,blankets,1
+malay,female,thin,30-39,yes,baby,big,BW,formal,BW,short sleeve,Primary,short,no,blankets,1
+malay,female,thin,40-49,yes,baby,big,BW,formal,BW,short sleeve,Primary,short,no,blankets,1
+chinese,female,fat,50-59,yes,toddler,big,Others,casual,BW,short sleeve,Primary,short,no,blankets,1
+malay,female,thin,40-49,yes,toddler,big,Secondary,casual,Secondary,short sleeve,Secondary,short,no,blankets,1
+malay,female,thin,50-59,yes,baby,big,Primary,formal,Secondary,short sleeve,Primary,short,no,blankets,1
+malay,female,thin,40-49,yes,baby,big,BW,formal,Others,short sleeve,Primary,short,no,blankets,1
+malay,female,thin,20-29,yes,baby,big,Secondary,casual,Secondary,short sleeve,Primary,short,no,blankets,1
+malay,female,fat,30-39,yes,baby,big,BW,formal,Secondary,short sleeve,Primary,short,no,clothes,1
+malay,female,thin,40-49,yes,baby,big,Primary,formal,Others,short sleeve,Primary,short,no,blankets,1
+malay,female,thin,40-49,yes,baby,big,Others,casual,Secondary,short sleeve,BW,short,no,blankets,1
+malay,female,fat,30-39,yes,toddler,big,BW,casual,Secondary,short sleeve,BW,short,no,blankets,1
+malay,female,thin,30-39,yes,baby,big,BW,formal,Others,short sleeve,Others,long,yes,blankets,3
+malay,male,fat,50-59,no,nokids,big,Secondary,casual,Secondary,short sleeve,Secondary,short,no,clothes,0
+malay,male,fat,30-39,yes,toddler,big,Primary,casual,Secondary,short sleeve,Primary,long,no,clothes,0
+chinese,male,thin,20-29,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,no,clothes,3
+malay,male,thin,40-49,no,nokids,big,Primary,casual,Others,short sleeve,Primary,long,no,clothes,0
+malay,male,moderate,30-39,no,nokids,big,BW,casual,Secondary,short sleeve,BW,long,no,blankets,0
+malay,female,thin,30-39,no,nokids,small,BW,casual,BW,long sleeve,Others,long,no,clothes,3
+malay,male,thin,30-39,no,nokids,small,Primary,casual,Primary,short sleeve,Primary,long,no,blankets,4
+malay,female,thin,40-49,no,nokids,small,Others,traditional,BW,short sleeve,BW,long,no,clothes,3
+malay,female,thin,40-49,yes,baby,big,Primary,casual,Primary,long sleeve,Primary,long,yes,clothes,2
+malay,male,thin,30-39,yes,baby,big,Primary,casual,Secondary,short sleeve,BW,short,no,clothes,4
+malay,female,moderate,40-49,no,young,big,BW,casual,BW,long sleeve,BW,long,yes,clothes,2
+malay,female,moderate,40-49,yes,nokids,big,Primary,traditional,Secondary,short sleeve,BW,long,yes,clothes,0
+malay,female,moderate,50-59,yes,young,big,Primary,casual,BW,short sleeve,BW,long,no,clothes,1
+malay,female,moderate,30-39,yes,toddler,small,BW,casual,BW,short sleeve,Others,long,no,clothes,1
+indian,male,moderate,40-49,no,nokids,big,Others,casual,BW,short sleeve,Secondary,short,no,clothes,0
+malay,female,thin,40-49,no,nokids,small,BW,casual,Others,long sleeve,BW,long,no,clothes,2
+malay,female,moderate,40-49,no,nokids,small,BW,casual,Primary,long sleeve,BW,long,no,clothes,2
+malay,male,fat,30-39,no,nokids,big,Others,casual,BW,short sleeve,BW,long,no,blankets,0
+malay,female,moderate,50-59,no,nokids,big,Secondary,traditional,Others,long sleeve,Others,long,yes,clothes,2
+indian,female,moderate,30-39,no,nokids,big,Secondary,traditional,Others,short sleeve,BW,long,no,clothes,0
+malay,male,moderate,30-39,no,nokids,big,Primary,casual,BW,short sleeve,BW,long,no,blankets,0

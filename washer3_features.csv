@@ -1,0 +1,31 @@
+Features,Score
+School_Holiday_No,1.0
+Kids_Category_baby,1.0
+Rain_Condition_Light,1.0
+School_Holiday_Yes,1.0
+Kids_Category_toddler,1.0
+Rain_Condition_None,1.0
+Age_Group_50-59,1.0
+Race_chinese,0.99
+Gender_female,0.99
+Gender_male,0.99
+Shirt_Colour_BW,0.99
+Basket_colour_Secondary,0.99
+Wash_Item_clothes,0.98
+shirt_type_short sleeve,0.97
+Basket_Size_big,0.97
+Shirt_Colour_Secondary,0.95
+Shirt_Colour_Primary,0.95
+Basket_colour_Others,0.95
+Shirt_Colour_Others,0.94
+With_Kids_no,0.93
+Wash_Item_blankets,0.93
+pants_type_long,0.93
+Kids_Category_nokids,0.92
+Pants_Colour_Others,0.92
+Race_malay,0.91
+Body_Size_fat,0.9
+shirt_type_long sleeve,0.89
+pants_type_short,0.83
+Spectacles_no,0.82
+Basket_colour_BW,0.82

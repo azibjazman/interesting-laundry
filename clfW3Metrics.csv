@@ -1,0 +1,5 @@
+Model_Name,Precision,Recall,F1_Score,Accuracy
+Naive Bayes,0.8538,0.7967,0.786,0.7967
+Logistic Regression,0.8538,0.7967,0.786,0.7967
+K-Nearest Neighbors,0.8273,0.8171,0.8147,0.8171
+SVM,0.8497,0.7886,0.7766,0.7886

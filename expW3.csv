@@ -1,0 +1,25 @@
+Model_Name,Features,SMOTE,Accuracy,Precision,Recall,F1_Score
+Naive Bayes,All,no,58.44,62.99,58.44,59.94
+Naive Bayes,All,yes,79.67,85.38,79.67,78.6
+Naive Bayes,10,yes,52.44,75.15,52.44,36.52
+Naive Bayes,20,yes,68.29,80.3,68.29,64.17
+Naive Bayes,30,yes,68.29,80.3,68.29,64.17
+Naive Bayes,40,yes,80.08,85.6,80.08,79.07
+Logistic Regression,All,no,69.96,65.78,69.96,65.02
+Logistic Regression,All,yes,76.83,80.72,76.83,75.83
+Logistic Regression,10,yes,54.88,58.16,54.88,51.87
+Logistic Regression,20,yes,67.89,68.77,67.89,67.19
+Logistic Regression,30,yes,79.67,85.38,79.67,78.6
+Logistic Regression,40,yes,77.64,82.13,77.64,76.6
+K-Nearest Neighbors ,All,no,74.07,74.29,74.07,68.43
+K-Nearest Neighbors ,All,yes,78.05,83.39,78.05,76.89
+K-Nearest Neighbors ,10,yes,65.85,65.85,65.85,65.85
+K-Nearest Neighbors ,20,yes,74.8,76.13,74.8,74.28
+K-Nearest Neighbors ,30,yes,81.71,82.73,81.71,81.47
+K-Nearest Neighbors ,40,yes,77.24,79,77.24,76.72
+SVM,All,no,69.96,48.94,69..96,57.59
+SVM,All,yes,79.67,85.38,79.67,78.6
+SVM,10,yes,54.88,58.16,54.88,51.87
+SVM,20,yes,66.67,79.68,66.67,61.84
+SVM,30,yes,78.86,84.97,78.86,77.66
+SVM,40,yes,78.86,84.97,78.86,77.66
